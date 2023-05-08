@@ -18,7 +18,7 @@
 
 <a href="https://ir.linkedin.com/in/artin-zafari-907074250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ir.linkedin.com/in/artin-zafari-907074250" height="30" width="40" /></a>
 
-
+  
 <a href="https://www.instagram.com/artin_zz0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/artin_zz0/" height="30" width="40" /></a>
 
   
