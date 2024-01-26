@@ -21,9 +21,6 @@
   
 <a href="http://www.youtube.com/@bytelegendshub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.instagram.com/artin_zz0/" height="30" width="40" /></a>
 
-  
-<a href="https://www.t.me.org/artin_zz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="https://www.instagram.com/artin_zz0/" height="30" width="40" /></a>
-</p>
 </div>
 
 <div>
