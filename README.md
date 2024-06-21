@@ -23,4 +23,11 @@
 
 </div>
 
+<div>
+  | <a href="https://github.com/Artin-ZZ/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Artin-ZZ&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Artin-ZZ github stats" /></a> | <br><br>
+  <p>| <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Artin-ZZ&theme=radical&hide_border=true" alt="Artin-ZZ" (https://git.io/streak-stats) /> |</p>
+  | <a href="https://github.com/Artin-ZZ/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artin-ZZ&layout=compact&theme=radical&hide_border=true" /></a> |<br><br>
+  <p>| <img align="center" src="https://github-profile-trophy.vercel.app/?username=Artin-ZZ&theme=radical&hide" alt="Artin-ZZ" (https://github.com/ryo-ma/github-profile-trophy) /> |</p>
+</div>
+
 <img align="left" alt="Coding" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/26d25a7dc705c50943f66aef6beb431253a93cd5/github-contribution-grid-snake.svg">
