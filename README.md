@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript & Typescript**
 
-- 💬 Ask me about **| Python | Html | CSS | C# | DS | ML |**
+- 💬 Ask me about **| Python | Html | CSS | SASS(CSS) | JavaScript | C# | DS | ML |**
 
 - 📫 How to reach me **artinzafari@gmail.com or dev@sigmascript.com**
 
