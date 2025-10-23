@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Artin-ZZ&label=Profile%20views&color=0e75b6&style=flat" alt="Artin-ZZ" /> </p>
 
 
-- 🌱 I’m currently learning **JavaScript & Typescript**
+- 🌱 I’m currently Working On **A Very Cool Project**
 
 - 💬 Ask me about **| Python | Html | CSS | SASS(CSS) | JavaScript | C# | DS | ML |**
 
-- 📫 How to reach me **artinzafari@gmail.com or dev@sigmascript.com**
+- 📫 How to reach me **artinzafari@gmail.com or my socials**
 
 <div>
 <h3 align="left">Connect with me:</h3>
