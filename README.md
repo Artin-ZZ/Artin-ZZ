@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Working On **A Very Cool Project**
 
-- 💬 Ask me about **| Python | Html | CSS | SASS(CSS) | JavaScript | C# | DS | ML |**
+- 💬 Ask me about **| Python | Html | CSS | SASS(CSS) | JavaScript | C# | DS | ML | AI |**
 
 - 📫 How to reach me **artinzafari@gmail.com or my socials**
 
