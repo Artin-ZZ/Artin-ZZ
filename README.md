@@ -2,7 +2,6 @@
 <h3 align="center">A talented self-taught Web developer 👨‍💻🐍 & Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Artin-ZZ&label=Profile%20views&color=0e75b6&style=flat" alt="Artin-ZZ" /> </p>
 
 
 - 🌱 I’m currently Working On **A Very Cool Project**
