@@ -1,0 +1,33 @@
+
+name: Generate Profile Trophies
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  trophies:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: 'username=Artin-ZZ&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true'
+          path: profile/trophy.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+
+      - name: Commit trophy SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/trophy.svg
+          git commit -m "Update profile trophies" || exit 0
+          git push
