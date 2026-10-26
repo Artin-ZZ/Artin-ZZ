@@ -1,4 +1,3 @@
-
 name: Generate Contribution Snake
 
 on:
@@ -9,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - "https://github.com/Artin-ZZ/Artin-ZZ/blob/main/snake.yml"
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -21,22 +20,22 @@ jobs:
 
     steps:
       - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: Artin-ZZ
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Verify generated files
+      - name: Verify SVG generation
         run: |
-          echo "Checking generated SVG files..."
+          echo "Checking generated files..."
           ls -lah dist/
           test -s dist/github-contribution-grid-snake.svg
           test -s dist/github-contribution-grid-snake-dark.svg
-          echo "Both SVG files were generated successfully."
+          echo "SUCCESS: Both SVG files exist."
 
-      - name: Publish SVGs to output branch
+      - name: Publish SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
