@@ -1,32 +1,47 @@
+
 <h1 align="center">Hello There 👋🌎, I'm Artin Zafari</h1>
-<h3 align="center">A talented self-taught Web developer 👨‍💻🐍 & Machine Learning Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
 
+<h3 align="center">Self-taught Web Developer 👨‍💻🐍 & Machine Learning Engineer</h3>
 
+<img align="right" alt="Coding animation" width="380" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif" />
 
-- 🌱 I’m currently Working On **A Very Cool Project**
+- 🌱 I'm currently working on **A Very Cool Project**
+- 💬 Ask me about **Python | HTML | CSS | SASS | JavaScript | C# | Data Science | ML | AI**
+- 📫 Reach me at **artinzafari@gmail.com** or through my socials.
 
-- 💬 Ask me about **| Python | Html | CSS | SASS(CSS) | JavaScript | C# | DS | ML | AI |**
+<br clear="right"/>
 
-- 📫 How to reach me **artinzafari@gmail.com or my socials**
+---
 
-<div>
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">🌐 Connect with me</h3>
 
-<p align="left">
+<p align="center">
+  <a href="https://ir.linkedin.com/in/artin-zafari-907074250">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@bytelegendshub">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</p>
 
-<a href="https://ir.linkedin.com/in/artin-zafari-907074250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ir.linkedin.com/in/artin-zafari-907074250" height="30" width="40" /></a>
+---
 
-  
-<a href="http://www.youtube.com/@bytelegendshub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.instagram.com/artin_zz0/" height="30" width="40" /></a>
+<h3 align="center">📊 GitHub Statistics</h3>
 
-</div>
+<p align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Artin-ZZ&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Artin-ZZ&theme=radical&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-<div>
-  | <a href="https://github.com/Artin-ZZ/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Artin-ZZ&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Artin-ZZ github stats" /></a> | <br><br>
-  <p>| <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Artin-ZZ&theme=radical&hide_border=true" alt="Artin-ZZ" (https://git.io/streak-stats) /> |</p>
-  | <a href="https://github.com/Artin-ZZ/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artin-ZZ&layout=compact&theme=radical&hide_border=true" /></a> |<br><br>
-  <p>| <img align="center" src="https://github-profile-trophy.vercel.app/?username=Artin-ZZ&theme=radical&hide" alt="Artin-ZZ" (https://github.com/ryo-ma/github-profile-trophy) /> |</p>
-</div>
+<p align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Artin-ZZ&layout=compact&theme=radical&hide_border=true" alt="Most used programming languages" />
+</p>
 
-<img align="left" alt="Coding" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/26d25a7dc705c50943f66aef6beb431253a93cd5/github-contribution-grid-snake.svg">
+---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Artin-ZZ/Artin-ZZ/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
