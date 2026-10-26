@@ -1,5 +1,4 @@
-
-<h1 align="center">Hello There 👋🌎, I'm Artin Zafari</h1>
+ <h1 align="center">Hello There 👋🌎, I'm Artin Zafari</h1>
 
 <h3 align="center">Self-taught Web Developer 👨‍💻🐍 & Machine Learning Engineer</h3>
 
@@ -51,6 +50,13 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artin-ZZ&layout=compact&theme=radical&hide_border=true" alt="Most used programming languages" />
 </p>
 
+---
+
+<h3 align="center">🏆 GitHub Profile Trophies</h3>
+
+<p align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Profile Trophies" />
+</p>
 
 ---
 
