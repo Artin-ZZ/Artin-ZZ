@@ -2,9 +2,9 @@
 name: Generate Contribution Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
   push:
     branches:
       - main
@@ -13,10 +13,6 @@ on:
 
 permissions:
   contents: write
-
-concurrency:
-  group: contribution-snake
-  cancel-in-progress: true
 
 jobs:
   generate:
@@ -32,11 +28,18 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake SVGs
-        uses: crazy-max/ghaction-github-pages@v5
+      - name: Verify generated files
+        run: |
+          echo "Checking generated SVG files..."
+          ls -lah dist/
+          test -s dist/github-contribution-grid-snake.svg
+          test -s dist/github-contribution-grid-snake-dark.svg
+          echo "Both SVG files were generated successfully."
+
+      - name: Publish SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "Update contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
