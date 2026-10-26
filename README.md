@@ -51,13 +51,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artin-ZZ&layout=compact&theme=radical&hide_border=true" alt="Most used programming languages" />
 </p>
 
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Artin-ZZ&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
-</p>
 
 ---
 
